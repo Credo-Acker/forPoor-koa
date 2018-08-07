@@ -1,0 +1,31 @@
+{
+  "name": "forpoor-koa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Credo-Acker/forPoor-koa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Credo-Acker/forPoor-koa/issues"
+  },
+  "homepage": "https://github.com/Credo-Acker/forPoor-koa#readme",
+  "dependencies": {
+    "koa": "^2.5.2",
+    "koa-body": "^4.0.4",
+    "koa-cors": "^0.0.16",
+    "koa-route": "^3.2.0",
+    "koa-session": "^5.8.2",
+    "koa-session-minimal": "^3.0.4",
+    "koa-static": "^5.0.0",
+    "md5": "^2.2.1",
+    "mongoose": "^5.2.6",
+    "sha1": "^1.1.1"
+  }
+}
